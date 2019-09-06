@@ -1,0 +1,493 @@
+<HTML>
+<HEAD>
+  <META NAME="GENERATOR" CONTENT="1GARD International Access Card">
+  <TITLE>1GARD member preregistration</TITLE>
+</HEAD>
+<BODY BGCOLOR="#ffffff">
+
+<FORM>
+  <H1><FONT SIZE="+0"><A HREF="index.asp">1GARD  RESEARCH NETWORK</A></FONT><FONT
+ COLOR="#5c7076" SIZE="-2">
+<HR ALIGN=LEFT></FONT></H1>
+
+<H2><CENTER><FONT COLOR="#1d8971" SIZE="+0">1GARD  International
+Discount Program<BR>
+</FONT><FONT COLOR="#1d8971">Member Form 1.2<BR>
+      &quot;Company registration&quot;.</FONT><FONT
+ COLOR="#1d8971" SIZE="+1"> 
+      <HR></FONT></CENTER></H2>
+
+<P>&nbsp;</P>
+
+<P><HR ALIGN=LEFT>
+  <TABLE BORDER="0" CELLSPACING="6" CELLPADDING="0"
+WIDTH="86%" HEIGHT="788">
+    <CAPTION ALIGN="TOP"><H3 ALIGN=LEFT>On Line Registration Form</H3>
+</CAPTION>
+  <TR>
+    <TH WIDTH="14%" BGCOLOR="#a3c9c1" HEIGHT="58">
+    <P ALIGN=RIGHT><B>PRE reg entries</B></TH> 
+      <TH WIDTH="40%" BGCOLOR="#a3c9c1" HEIGHT="58"> 
+        <div align="center">
+          <INPUT NAME="user" TYPE="text" SIZE="25" maxlength="20">
+          <FONT COLOR="#ff0000"
+     SIZE="-1">*</FONT><BR>
+          user name</div>
+      </TH> 
+    <TD HEIGHT="58" COLSPAN="2" BGCOLOR="#a3c9c1">
+    <P><CENTER>
+            <INPUT NAME="user_pass" TYPE="text" SIZE="25" maxlength="20">
+            <FONT
+     COLOR="#ff0000" SIZE="-1">*<BR>
+    </FONT><B>password</B></CENTER></TD>
+  </TR>
+  <TR>
+    <TD HEIGHT="23" COLSPAN="4" BGCOLOR="#dadffc">
+    <B>names</B></TD>
+     
+  </TR>
+  <TR>
+      <TD HEIGHT="36" WIDTH="14%" VALIGN="TOP" ALIGN="RIGHT"> name of company</TD> 
+      <TD WIDTH="40%" VALIGN="TOP" HEIGHT="36"> <FONT SIZE="-1">
+<INPUT NAME="com_name" TYPE="text" SIZE="30"></FONT><FONT
+     COLOR="#ff0000" SIZE="-1">*</FONT></TD> 
+      <TD WIDTH="32%" VALIGN="TOP" HEIGHT="36"></TD>
+      <TD WIDTH="98" HEIGHT="36">&nbsp; </TD> 
+  </TR>
+  <TR>
+      <TD HEIGHT="34" WIDTH="14%" VALIGN="TOP" ALIGN="RIGHT"> type of company</TD> 
+      <TD WIDTH="40%" HEIGHT="34" VALIGN="TOP"> 
+        <SELECT NAME="type">
+    <OPTION VALUE="0" SELECTED>choose one
+    <OPTION VALUE="1">Public
+    <OPTION VALUE="2">Private company
+    <OPTION VALUE="3">Association
+    <OPTION VALUE="4">Consortium
+    <OPTION VALUE="5">Cooperative
+    <OPTION VALUE="6">Division
+    <OPTION VALUE="7">Foundation
+    <OPTION VALUE="8">Joint venture
+    <OPTION VALUE="9">Labor union
+    <OPTION VALUE="10">Mutual company
+    <OPTION VALUE="11">Not-for-profit
+    <OPTION VALUE="12">Partnership
+    <OPTION VALUE="13">School
+    <OPTION VALUE="14">Government-owned
+    <OPTION VALUE="15">Subsidiary
+    <OPTION VALUE="16">Holding company
+    <OPTION VALUE="17">Group
+    <OPTION VALUE="18">Member-owned banking authority
+    <OPTION VALUE="19">Insurance society
+    </SELECT><FONT COLOR="#ff0000" SIZE="-1">*</FONT></TD> 
+      <TD COLSPAN="2" VALIGN="TOP" HEIGHT="34"> &nbsp;
+<INPUT NAME="name" TYPE="text" SIZE="25"></TD>
+     
+  </TR>
+  <TR>
+      <TD WIDTH="14%" VALIGN="TOP" ALIGN="RIGHT" HEIGHT="36"> short name, abbreviation</TD> 
+      <TD WIDTH="40%" HEIGHT="36" VALIGN="TOP"> 
+        <INPUT NAME="name_short" TYPE="text" SIZE="30">
+</TD>
+      <TD WIDTH="32%" VALIGN="TOP" HEIGHT="36"></TD>
+      <TD WIDTH="98" HEIGHT="36">&nbsp; </TD> 
+  </TR>
+  <TR>
+      <TD WIDTH="14%" VALIGN="TOP" ALIGN="RIGHT" HEIGHT="29"> stock ticker</TD> 
+      <TD WIDTH="40%" HEIGHT="29" VALIGN="TOP"> 
+        <INPUT NAME="ticker" TYPE="text" SIZE="30">
+</TD>
+      <TD WIDTH="32%" VALIGN="TOP" HEIGHT="29"></TD>
+      <TD WIDTH="98" HEIGHT="29">&nbsp; </TD> 
+  </TR>
+  <TR>
+      <TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="14%" HEIGHT="49"> boss</TD> 
+      <TD WIDTH="40%" HEIGHT="49" VALIGN="TOP"> 
+        <INPUT NAME="boss_name" TYPE="text" SIZE="30"><FONT COLOR="#ff0000"
+     SIZE="-1">*<BR>
+    </FONT><FONT SIZE="-1">name</FONT>&nbsp;</TD> 
+      <TD COLSPAN="2" VALIGN="TOP" HEIGHT="49"> 
+        <INPUT NAME="boss_posit" TYPE="text" SIZE="25"><FONT COLOR="#ff0000"
+     SIZE="-1">*<BR>
+    </FONT><FONT SIZE="-1">position</FONT></TD>
+     
+  </TR>
+  <TR>
+    <TD HEIGHT="23" COLSPAN="4" BGCOLOR="#dadffc">
+    <B>address</B></TD>
+     
+  </TR>
+  <TR>
+    <TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="14%" HEIGHT="37">
+    zip code</TD> 
+    <TD WIDTH="40%" HEIGHT="37" VALIGN="TOP">
+    <INPUT NAME="zip" TYPE="text" SIZE="30"><FONT COLOR="#ff0000"
+     SIZE="-1">*</FONT></TD> 
+    <TD WIDTH="32%" HEIGHT="37">&nbsp;
+    </TD> 
+    <TD WIDTH="98" HEIGHT="37">&nbsp;
+    </TD> 
+  </TR>
+  <TR>
+    <TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="14%" HEIGHT="35">
+    country</TD> 
+    <TD WIDTH="40%" HEIGHT="35" VALIGN="TOP">
+    &nbsp;<SELECT NAME="countries">
+    <OPTION VALUE="ALL" SELECTED>ALL
+    <OPTION VALUE="US">United States
+    <OPTION VALUE="Antigua">Antigua
+    <OPTION VALUE="Argentina">Argentina
+    <OPTION VALUE="Australia">Australia
+    <OPTION VALUE="Austria">Austria
+    <OPTION VALUE="Bahamas">Bahamas
+    <OPTION VALUE="Bahrain">Bahrain
+    <OPTION VALUE="Belgium">Belgium
+    <OPTION VALUE="Belize">Belize
+    <OPTION VALUE="Bermuda">Bermuda
+    <OPTION VALUE="Brazil">Brazil
+    <OPTION VALUE="British Virgin Islands">British Virgin Islands
+    <OPTION VALUE="Canada">Canada
+    <OPTION VALUE="Cayman Islands">Cayman Islands
+    <OPTION VALUE="Channel Islands">Channel Islands
+    <OPTION VALUE="Chile">Chile
+    <OPTION VALUE="China">China
+    <OPTION VALUE="Colombia">Colombia
+    <OPTION VALUE="Denmark">Denmark
+    <OPTION VALUE="Dominican Republic">Dominican Republic
+    <OPTION VALUE="El Salvador">El Salvador
+    <OPTION VALUE="Finland">Finland
+    <OPTION VALUE="France">France
+    <OPTION VALUE="Germany">Germany
+    <OPTION VALUE="Ghana">Ghana
+    <OPTION VALUE="Gibraltar">Gibraltar
+    <OPTION VALUE="Greece">Greece
+    <OPTION VALUE="Hong Kong">Hong Kong
+    <OPTION VALUE="Hungary">Hungary
+    <OPTION VALUE="India">India
+    <OPTION VALUE="Indonesia">Indonesia
+    <OPTION VALUE="Ireland">Ireland
+    <OPTION VALUE="Israel">Israel
+    <OPTION VALUE="Italy">Italy
+    <OPTION VALUE="Japan">Japan
+    <OPTION VALUE="Jordan">Jordan
+    <OPTION VALUE="Korea">Korea
+    <OPTION VALUE="Luxembourg">Luxembourg
+    <OPTION VALUE="Malaysia">Malaysia
+    <OPTION VALUE="Mexico">Mexico
+    <OPTION VALUE="Monaco">Monaco
+    <OPTION VALUE="The Netherlands">The Netherlands
+    <OPTION VALUE="Netherlands Antilles">Netherlands Antilles
+    <OPTION VALUE="New Zealand">New Zealand
+    <OPTION VALUE="Nigeria">Nigeria
+    <OPTION VALUE="Norway">Norway
+    <OPTION VALUE="Panama">Panama
+    <OPTION VALUE="Papua New Guinea">Papua New Guinea
+    <OPTION VALUE="Peru">Peru
+    <OPTION VALUE="Philippines">Philippines
+    <OPTION VALUE="Portugal">Portugal
+    <OPTION VALUE="Russia">Russia
+    <OPTION VALUE="Saudi Arabia">Saudi Arabia
+    <OPTION VALUE="Singapore">Singapore
+    <OPTION VALUE="South Africa">South Africa
+    <OPTION VALUE="Spain">Spain
+    <OPTION VALUE="Sweden">Sweden
+    <OPTION VALUE="Switzerland">Switzerland
+    <OPTION VALUE="Taiwan">Taiwan
+    <OPTION VALUE="Thailand">Thailand
+    <OPTION VALUE="Turkey">Turkey
+    <OPTION VALUE="United Arab Emirates">United Arab Emirates
+    <OPTION VALUE="UK">United Kingdom
+    <OPTION VALUE="US">United States
+    <OPTION VALUE="Venezuela">Venezuela
+    <OPTION VALUE="Zambia">Zambia
+    </SELECT><FONT COLOR="#ff0000" SIZE="-1">*</FONT></TD> 
+    <TD WIDTH="32%" HEIGHT="35">&nbsp;
+    </TD> 
+    <TD WIDTH="98" HEIGHT="35">&nbsp;
+    </TD> 
+  </TR>
+  <TR>
+    <TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="14%" HEIGHT="37">
+    state, province</TD> 
+    <TD WIDTH="40%" HEIGHT="37" VALIGN="TOP">
+    &nbsp;<INPUT NAME="province" TYPE="text" SIZE="30"><FONT COLOR="#ff0000"
+     SIZE="-1">*</FONT></TD> 
+    <TD WIDTH="32%" HEIGHT="37">&nbsp;
+    </TD> 
+    <TD WIDTH="98" HEIGHT="37">&nbsp;
+    </TD> 
+  </TR>
+  <TR>
+      <TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="14%" HEIGHT="32"> metro area</TD> 
+      <TD WIDTH="40%" HEIGHT="32" VALIGN="TOP"> &nbsp;
+<INPUT NAME="megalopolis" TYPE="text" SIZE="30"></TD> 
+      <TD WIDTH="32%" HEIGHT="32">&nbsp; </TD> 
+      <TD WIDTH="98" HEIGHT="32">&nbsp; </TD> 
+  </TR>
+  <TR>
+    <TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="14%" HEIGHT="37">
+    city, town</TD> 
+    <TD WIDTH="40%" HEIGHT="37" VALIGN="TOP">
+    &nbsp;<INPUT NAME="city" TYPE="text" SIZE="30"><FONT COLOR="#ff0000"
+     SIZE="-1">*</FONT></TD> 
+    <TD WIDTH="32%" HEIGHT="37">&nbsp;
+    </TD> 
+    <TD WIDTH="98" HEIGHT="37">&nbsp;
+    </TD> 
+  </TR>
+  <TR>
+    <TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="14%" HEIGHT="38">
+    area, district</TD> 
+    <TD WIDTH="40%" HEIGHT="38" VALIGN="TOP">
+    &nbsp;<INPUT NAME="district" TYPE="text" SIZE="30"></TD> 
+    <TD WIDTH="32%" HEIGHT="38">&nbsp;
+    </TD> 
+    <TD WIDTH="98" HEIGHT="38">&nbsp;
+    </TD> 
+  </TR>
+  <TR>
+    <TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="14%" HEIGHT="38">
+    street</TD> 
+    <TD WIDTH="40%" HEIGHT="38" VALIGN="TOP">
+    &nbsp;<INPUT NAME="street" TYPE="text" SIZE="30"><FONT COLOR="#ff0000"
+     SIZE="-1">*</FONT></TD> 
+    <TD WIDTH="32%" HEIGHT="38">&nbsp;
+    </TD> 
+    <TD WIDTH="98" HEIGHT="38">&nbsp;
+    </TD> 
+  </TR>
+  <TR>
+      <TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="14%" HEIGHT="38"> building</TD> 
+    <TD WIDTH="40%" HEIGHT="38" VALIGN="TOP">
+    &nbsp;<INPUT NAME="building" TYPE="text" SIZE="30"><FONT COLOR="#ff0000"
+     SIZE="-1">*</FONT></TD> 
+    <TD WIDTH="32%" HEIGHT="38">&nbsp;
+    </TD> 
+    <TD WIDTH="98" HEIGHT="38">&nbsp;
+    </TD> 
+  </TR>
+  <TR>
+      <TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="14%" HEIGHT="39"> office</TD> 
+    <TD WIDTH="40%" HEIGHT="39" VALIGN="TOP">
+    &nbsp;<INPUT NAME="suit" TYPE="text" SIZE="30"></TD> 
+    <TD WIDTH="32%" HEIGHT="39">&nbsp;
+    </TD> 
+    <TD WIDTH="98" HEIGHT="39">&nbsp;
+    </TD> 
+  </TR>
+  <TR>
+    <TD COLSPAN="4" BGCOLOR="#dadffc">
+    <B>representatives, phones, e-mail:</B></TD>
+     
+  </TR>
+</TABLE><BR>
+  <textarea name="repres" cols="70"></textarea>
+  <BR>
+<FONT SIZE="-1">example</FONT>:<BR>
+  <font size="-1" color="#663399" face="Courier New, Courier, mono">Morgan Hub, 
+  vice president, 1-212-999-8888, vice@yrco.com</font><FONT SIZE="-1"></FONT><I><FONT SIZE="-1"><BR>
+  </FONT></I><FONT SIZE="-1">Attention: <font color="#FF3333">NO LINE BREAK TILL 
+  ONE PERSON</font></FONT> 
+  <p></P>
+
+<P>
+  <TABLE BORDER="0" CELLSPACING="6" CELLPADDING="0" WIDTH="91%"
+HEIGHT="563">
+    <TR> 
+      <TD HEIGHT="35" WIDTH="92" VALIGN="TOP" ALIGN="RIGHT"> Fax #</TD>
+      <TD VALIGN="TOP" HEIGHT="35" colspan="2"> <FONT SIZE="-1"> 
+        <INPUT NAME="fax" TYPE="text" SIZE="30">
+        <br>
+        <font size="-1" color="#663399">1-212-999-8888</font> </FONT> </TD>
+      <TD WIDTH="222" VALIGN="TOP" HEIGHT="35"></TD>
+      <TD WIDTH="13" HEIGHT="35">&nbsp; </TD>
+    </TR>
+    <TR> 
+      <TD HEIGHT="44" WIDTH="92" VALIGN="TOP" ALIGN="RIGHT"> company`s WEB sites</TD>
+      <TD VALIGN="TOP" HEIGHT="44" colspan="4"> 
+        <div align="left"><FONT SIZE="-1"> 
+          <textarea name="web" cols="70"></textarea>
+          <br>
+          <font color="#FF0033">one per line</font></FONT><font color="#FF0033">:</font><font color="#663399"> 
+          http://www.yco.com</font></div>
+      </TD>
+    </TR>
+    <TR> 
+      <TD COLSPAN="5" BGCOLOR="#dadffc" HEIGHT="23"> <B>general information about 
+        company</B></TD>
+    </TR>
+    <TR> 
+      <TH WIDTH="92" VALIGN="TOP" HEIGHT="42"> 
+        <P ALIGN=RIGHT>date of establishment
+      </TH>
+      <TH VALIGN="TOP" HEIGHT="42" colspan="2"> 
+        <P ALIGN=LEFT> 
+          <INPUT NAME="establish" TYPE="text" SIZE="30">
+      </TH>
+      <TD COLSPAN="2" HEIGHT="42"></TD>
+    </TR>
+    <TR> 
+      <TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="92" HEIGHT="77"> indicate main industries 
+        of the company</TD>
+      <TD VALIGN="TOP" HEIGHT="77" colspan="2"> &nbsp;UN classification <FONT COLOR="#ff0000" SIZE="-1">*<br>
+        <input type="text" name="industry" size="30">
+        get from list 
+        <input type="button" name="industries" value="Industries">
+        </FONT></TD>
+      <TD WIDTH="222" HEIGHT="77">&nbsp; </TD>
+      <TD WIDTH="13" HEIGHT="77">&nbsp; </TD>
+    </TR>
+    <TR> 
+      <TD VALIGN="TOP" ALIGN="RIGHT" colspan="4" HEIGHT="17" bgcolor="#CCCCFF"> 
+        <div align="left"><b>feel free to tell about specielties of the business</b></div>
+      </TD>
+      <TD WIDTH="13" HEIGHT="17">&nbsp; </TD>
+    </TR>
+    <TR> 
+      <TD VALIGN="TOP" ALIGN="RIGHT" colspan="3" HEIGHT="90"> 
+        <div align="left"> Why your business unick?<br>
+          <textarea name="spec" cols="70" wrap="PHYSICAL"></textarea>
+        </div>
+      </TD>
+      <TD WIDTH="222" HEIGHT="90">&nbsp; </TD>
+      <TD WIDTH="13" HEIGHT="90">&nbsp; </TD>
+    </TR>
+    <TR> 
+      <TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="92" HEIGHT="45">brand names,<br>
+        trade marks owened </TD>
+      <TD VALIGN="TOP" HEIGHT="45" colspan="2"> <font color="#663399"> 
+        <input type="text" name="brands" size="30">
+        <br>
+        <font size="2">brend1, brand2</font></font></TD>
+      <TD WIDTH="222" HEIGHT="45">&nbsp; </TD>
+      <TD WIDTH="13" HEIGHT="45">&nbsp; </TD>
+    </TR>
+    <TR> 
+      <TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="92" HEIGHT="46">clients</TD>
+      <TD VALIGN="TOP" HEIGHT="46" colspan="2"> 
+        <p> <font color="#663399"> 
+          <input type="text" name="clients" size="30">
+          <br>
+          <font size="2">client1, client2</font></font> </p>
+      </TD>
+      <TD WIDTH="222" HEIGHT="46">&nbsp; </TD>
+      <TD WIDTH="13" HEIGHT="46">&nbsp; </TD>
+    </TR>
+    <TR> 
+      <TD VALIGN="TOP" ALIGN="RIGHT" colspan="4" HEIGHT="24" bgcolor="#CCCCFF"> 
+        <div align="left"><b>Goods and services</b></div>
+      </TD>
+      <TD WIDTH="13" HEIGHT="24">&nbsp;</TD>
+    </TR>
+    <TR> 
+      <TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="92" HEIGHT="33">indicate groups<br>
+        of goods</TD>
+      <TD VALIGN="TOP" HEIGHT="33" colspan="2"> 
+        <INPUT TYPE="text" SIZE="30" NAME="goods">
+        <font color="#ff0000" size="-1"> get from list 
+        <input type="button" name="goods" value="Goods">
+        </font> </TD>
+      <TD WIDTH="222" HEIGHT="33">&nbsp; </TD>
+      <TD WIDTH="13" HEIGHT="33">&nbsp; </TD>
+    </TR>
+    <TR> 
+      <TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="92" HEIGHT="33">indicate groups<br>
+        of services</TD>
+      <TD VALIGN="TOP" HEIGHT="33" colspan="2"> 
+        <INPUT TYPE="text" SIZE="30" NAME="name">
+        <font color="#ff0000" size="-1"> get from list 
+        <input type="button" name="services" value="Services">
+        </font> </TD>
+      <TD WIDTH="222" HEIGHT="33">&nbsp; </TD>
+      <TD WIDTH="13" HEIGHT="33">&nbsp; </TD>
+    </TR>
+    <TR> 
+      <TD VALIGN="TOP" ALIGN="RIGHT" colspan="4" HEIGHT="25" bgcolor="#CCCCFF"> 
+        <div align="left"><b>Finance information</b></div>
+      </TD>
+      <TD WIDTH="13" HEIGHT="25">&nbsp;</TD>
+    </TR>
+    <TR> 
+      <TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="92" HEIGHT="27"> 
+        <p>sales last year<br>
+          US$ </p>
+      </TD>
+      <TD WIDTH="178" VALIGN="TOP" HEIGHT="27"> <font color="#663399"> 
+        <input type="text" name="sales" size="30">
+        <br>
+        <font size="2">0.12345678 </font></font></TD>
+      <TD WIDTH="154" VALIGN="TOP" HEIGHT="27">net income last year<br>
+        US$</TD>
+      <TD WIDTH="222" HEIGHT="27" valign="top"> <font size="2" color="#663399"> 
+        <input type="text" name="textfield">
+        <br>
+        0.12345678 </font> </TD>
+      <TD WIDTH="13" HEIGHT="27">&nbsp;</TD>
+    </TR>
+    <TR> 
+      <TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="92" HEIGHT="20">sales growth last 
+        year %</TD>
+      <TD WIDTH="178" VALIGN="TOP" HEIGHT="20"> <font color="#663399"> 
+        <input type="text" size="30" name="gross">
+        <br>
+        <font size="2">12.2</font></font> </TD>
+      <TD VALIGN="TOP" HEIGHT="20" WIDTH="154">net income grows last year US$</TD>
+      <TD WIDTH="222" HEIGHT="20" valign="top"> <font size="2" color="#663399"> 
+        <input type="text" name="textfield2">
+        <br>
+        12.2</font> </TD>
+      <TD WIDTH="13" HEIGHT="20">&nbsp;</TD>
+    </TR>
+    <TR> 
+      <TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="92" HEIGHT="43">emploies number</TD>
+      <TD VALIGN="TOP" HEIGHT="43" colspan="2"> 
+        <p> 
+          <input type="text" name="textfield3">
+          <br>
+          <font size="2" color="#663399">123 </font></p>
+      </TD>
+      <TD WIDTH="222" HEIGHT="43">&nbsp;</TD>
+      <TD WIDTH="13" HEIGHT="43">&nbsp;</TD>
+    </TR>
+    <TR> 
+      <TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="92" HEIGHT="18">fiscal year end</TD>
+      <TD VALIGN="TOP" HEIGHT="18" colspan="2"> 
+        <p>
+          <select name="select">
+            <option selected>Jan</option>
+            <option>Feb</option>
+            <option>Mar</option>
+            <option>Apr</option>
+            <option>May</option>
+            <option>Jun</option>
+            <option>Jul</option>
+            <option>Avg</option>
+            <option>Sep</option>
+            <option>Oct</option>
+            <option>Now</option>
+            <option>Dec</option>
+          </select>
+        </p>
+        </TD>
+      <TD WIDTH="222" HEIGHT="18">&nbsp; </TD>
+      <TD WIDTH="13" HEIGHT="18">&nbsp; </TD>
+    </TR>
+    <TR> 
+      <TD COLSPAN="5" BGCOLOR="#dadffc" HEIGHT="23"> 
+        <div align="center"> </div>
+      </TD>
+    </TR>
+    <TR> 
+      <TD COLSPAN="5" BGCOLOR="#dadffc" HEIGHT="23"></TD>
+    </TR>
+    <TR> 
+      <TD COLSPAN="5" BGCOLOR="#dadffc" HEIGHT="23"> 
+        <div align="center">
+          <input type="submit" name="Submit" value="Submit">
+        </div>
+      </TD>
+    </TR>
+  </TABLE>
+</FORM>
+
+</BODY>
+</HTML>
